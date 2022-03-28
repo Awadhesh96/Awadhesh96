@@ -76,7 +76,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Awadhesh96&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-Awadhesh96.herokuapp.com?user=Awadhesh96&theme=dark&background=000000)](https://git.io/Awadhesh96)
 
 <!---
 Awadhesh96/Awadhesh96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

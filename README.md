@@ -15,7 +15,10 @@
 </div>
 
 
-https://komarev.com/ghpvc/?username=your-github-username
+https://komarev.com/ghpvc/?username=Awadhesh96
+
+
+<img src="https://komarev.com/ghpvc/?username=Awadhesh96&style=flat-square&color=blue" alt=""/>
 
 
 

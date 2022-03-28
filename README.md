@@ -76,9 +76,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/awadhesh2300645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/awadhesh2300645" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/awadhesh-kumar-701088207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awadhesh-kumar-701088207/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/nutbolt_472/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nutbolt_472/" height="30" width="40" /></a>
+<a href="https://twitter.com/awadhesh2300645" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/awadhesh2300645" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/awadhesh-kumar-701088207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/awadhesh-kumar-701088207/" height="30" width="40" /></a>
+<a href="https://leetcode.com/nutbolt_472/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/nutbolt_472/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

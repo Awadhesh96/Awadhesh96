@@ -48,7 +48,7 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Awadhesh-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/awadhesh-kumar-701088207/)
 
 
-- 👨‍💻 All of my projects are available at [awadhesh](github.com/awadhesh96)
+- 👨‍💻 All of my projects are available at [awadhesh](https://github.com/Awadhesh96)
 
 - 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1iVIE5ICalOPeyi-vdUusOXQTA02w8huW/view?usp=sharing)
 

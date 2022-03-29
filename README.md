@@ -50,7 +50,7 @@
 
 - 👨‍💻 All of my projects are available at [awadhesh96](awadhesh96)
 
-- 📄 Know about my experiences [drive link](drive link)
+- 📄 Know about my experiences [drive link](https://drive.google.com/file/d/1iVIE5ICalOPeyi-vdUusOXQTA02w8huW/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

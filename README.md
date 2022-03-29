@@ -75,7 +75,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awadhesh96&show_icons=true&locale=en&layout=compact" alt="awadhesh96" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=awadhesh96&show_icons=true&locale=en&layout=compact" alt="awadhesh96" /></p>
 
 
 
